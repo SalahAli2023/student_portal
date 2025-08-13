@@ -31,5 +31,7 @@ declare(strict_types=1);
         <button type="submit">Submit</button>
     </form>
 
+    <p>Visit our <a href="greet.php">greeting page</a> to test GET parameters.</p>
+
 </body>
 </html>
